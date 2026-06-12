@@ -2,8 +2,6 @@
 
 <p align="left">
   I make dreams come true. <br>
-  I develop well-designed, high-performance websites, web apps, mobile apps, desktop apps. <br>
-  I have been in the Software Development industry for 9 years and have been working as a Full Stack Developer for the last 6 years. But even though I’m still hungry to learn new technologies and achieve new successes. <br>
 </p>
 
 ###
